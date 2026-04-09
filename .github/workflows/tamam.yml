@@ -1,0 +1,42 @@
+name: Yayın Linklerini Ayıkla
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Kontrol Et
+        uses: actions/checkout@v3
+
+      - name: Filtreleyerek Ayıkla
+        run: |
+          # Kaynak M3U dosyaları
+          URLS=(
+            "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar.m3u"
+            "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar2.m3u"
+            "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/mono.m3u"
+          )
+
+          > temp_raw.txt
+
+          for url in "${URLS[@]}"; do
+            curl -sL "$url" | grep -oE "https?://[^/]+/" >> temp_raw.txt
+          done
+
+          # FİLTRELEME: inattv, monotv ve trgoals içerenleri siler
+          # Sadece yayın sunucusu formatında kalanları tutar
+          grep -vE "inattv|monotv|trgoals" temp_raw.txt | sort -u > tamam.txt
+          
+          rm temp_raw.txt
+
+      - name: Kaydet ve Gönder
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tamam.txt
+          git commit -m "Sunucu listesi güncellendi: $(date)" || echo "Değişiklik yok"
+          git push
