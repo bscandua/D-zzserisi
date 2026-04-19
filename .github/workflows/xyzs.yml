@@ -30,7 +30,7 @@ jobs:
           git add xyzvt.m3u
           if ! git diff --cached --quiet; then
             git commit -m "Update xyzvt.m3u"
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/mehmetey03/METV.git HEAD:main
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/bscandua/D-zzserisi.git HEAD:main
           else
             echo "Değişiklik yok, commit atılmadı."
         env:
