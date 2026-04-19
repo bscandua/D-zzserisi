@@ -6,7 +6,7 @@ class NexaTVManager:
     def __init__(self):
         self.proxy_prefix = "https://api.codetabs.com/v1/proxy/?quest="
         self.base_stream_url = "https://andro.okan11gote12sokan.cfd/checklist/"
-        self.logo_url = "https://i.hizliresim.com/8xzjgqv.jpg"
+        self.logo_url = "https://img3.aksam.com.tr/fotogaleri/galeri/2021/05/06/0605202116202968517398f1ee.jpg"
         self.group_title = "NexaTV"
         self.channels = [
             {"name": "TR:beIN Sport 1 HD", "path": "androstreamlivebs1.m3u8"},
