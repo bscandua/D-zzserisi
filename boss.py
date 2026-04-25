@@ -62,7 +62,7 @@ def create_m3u(domain, iframe_src):
     
     for channel in channels:
         m3u8_url = f"https://{pages_dev}/{hash_code}/-/{channel['id']}/playlist.m3u8"
-        m3u_content += f'#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="BOSS-SPORTS", {channel["name"]}\n'
+        m3u_content += f'#EXTINF:-1 tvg-logo="https://www.berilates.com/storage/images/2017/0043273001490263586.jpg" group-title="BOSS-SPORTS", {channel["name"]}\n'
         m3u_content += f'#EXTVLCOPT:http-referrer={domain}\n'
         m3u_content += f'#EXTVLCOPT:http-origin={domain}\n'
         m3u_content += f'{m3u8_url}\n\n'
