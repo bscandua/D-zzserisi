@@ -1,55 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/fenerbahce.png" group-title="CANLI MAÇLAR - Hazırlık Maçı",Fenerbahçe - Pogon Szczecin [20:30]
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/norvec.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Norveç - İngiltere [00:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/fenerbahce.png | https://img.sporekrani.com/tr_w_72,h_72,c_limit/teams/BikhD1fFMUsCIVJsHJFNqxAtytcqU8Yaz0jwHVc0.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/motogp.png" group-title="CANLI MAÇLAR - MotoGP",MotoGP - Serbest Antrenman 2 ve Sıralama Turları [11:10]
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/norvec.png | https://patronsports2.cfd/img/logos/ingiltere.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/arjantin.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Arjantin - İsviçre [04:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/arjantin.png | https://patronsports2.cfd/img/logos/isvicre.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/abd.png" group-title="CANLI MAÇLAR - Voleybol Kadinlar Milletler Ligi",ABD - Brezilya [06:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/abd.png | https://patronsports2.cfd/img/logos/brezilya.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/boks.png" group-title="CANLI MAÇLAR - UFC Dövüş Serisi",C.McGregor - M.Holloway [06:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/boks.png | https://patronsports2.cfd/img/logos/boks.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/tayland-u23.png" group-title="CANLI MAÇLAR - Voleybol Kadinlar Milletler Ligi",Tayland - Türkiye [09:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/tayland-u23.png | https://patronsports2.cfd/img/logos/turkiye.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/motogp.png" group-title="CANLI MAÇLAR - Moto3",Moto3 - Almanya GP [12:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
 # İki logo: https://patronsports2.cfd/img/logos/motogp.png | https://patronsports2.cfd/img/logos/motogp.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/japonya.png" group-title="CANLI MAÇLAR - Voleybol Kadinlar Milletler Ligi",Japonya - Türkiye [13:20]
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/motogp.png" group-title="CANLI MAÇLAR - Moto2",Moto2 - Almanya GP [13:15]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/japonya.png | https://patronsports2.cfd/img/logos/turkiye.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/bisiklet.png" group-title="CANLI MAÇLAR - Bisiklet Tour de France",Bisiklet Tour de France - Etap 8 [14:00]
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/motogp.png | https://patronsports2.cfd/img/logos/motogp.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/japonya.png" group-title="CANLI MAÇLAR - Voleybol Kadinlar Milletler Ligi",Japonya - Polonya [13:20]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/japonya.png | https://patronsports2.cfd/img/logos/polonya.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/bisiklet.png" group-title="CANLI MAÇLAR - Bisiklet Tour de France",Bisiklet Tour de France - Etap 9 [14:15]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 # İki logo: https://patronsports2.cfd/img/logos/bisiklet.png | https://patronsports2.cfd/img/logos/bisiklet.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/motogp.png" group-title="CANLI MAÇLAR - Moto2",Moto2 - Sıralama Turları [14:40]
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/cin.png" group-title="CANLI MAÇLAR - Voleybol Kadinlar Milletler Ligi",Çin - İtalya [15:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/cin.png | https://patronsports2.cfd/img/logos/italya.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/motogp.png" group-title="CANLI MAÇLAR - MotoGP",MotoGP - Almanya GP [15:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
 # İki logo: https://patronsports2.cfd/img/logos/motogp.png | https://patronsports2.cfd/img/logos/motogp.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/tenis.png" group-title="CANLI MAÇLAR - Wimbledon",Heliovaara/Patten - Arevalo/Pavic [15:00]
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/tenis.png" group-title="CANLI MAÇLAR - Wimbledon",J.Sinner - A.Zverev [18:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
 # İki logo: https://patronsports2.cfd/img/logos/tenis.png | https://patronsports2.cfd/img/logos/tenis.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/motogp.png" group-title="CANLI MAÇLAR - MotoGP",MotoGP - Sprint Yarışları [16:00]
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/sirbistan.png" group-title="CANLI MAÇLAR - Voleybol Kadinlar Milletler Ligi",Sırbistan - Hollanda [21:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/motogp.png | https://patronsports2.cfd/img/logos/motogp.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/bulgaristan.png" group-title="CANLI MAÇLAR - Voleybol Kadinlar Milletler Ligi",Bulgaristan - Fransa [17:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/bulgaristan.png | https://patronsports2.cfd/img/logos/fransa.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/sirbistan.png" group-title="CANLI MAÇLAR - Voleybol Kadinlar Milletler Ligi",Sırbistan - Almanya [21:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/sirbistan.png | https://patronsports2.cfd/img/logos/almanya.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/tirmanis.png" group-title="CANLI MAÇLAR - Tirmaniş Dünya Kupasi",Tirmaniş Dünya Kupasi - Speed Finalleri [22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/tirmanis.png | https://patronsports2.cfd/img/logos/tirmanis.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/golf.png" group-title="CANLI MAÇLAR - PGA Kentucky Golf Turnuvasi",PGA Kentucky Golf Turnuvasi - Gün 3 [23:00]
+# İki logo: https://patronsports2.cfd/img/logos/sirbistan.png | https://patronsports2.cfd/img/logos/hollanda.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/golf.png" group-title="CANLI MAÇLAR - PGA Kentucky Golf Turnuvasi",PGA Kentucky Golf Turnuvasi - Gün 3 [23:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
