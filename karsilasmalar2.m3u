@@ -3,18 +3,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 https://c8c.site/ex1/mono.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",12:00 | Malzenice - Beşiktaş
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-https://c8c.site/ex2/mono.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",18:30 | Spartak Trnava - Beşiktaş
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-https://c8c.site/ex2/mono.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",22:00 | Fransa - İspanya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 https://c8c.site/trt1/mono.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",22:00 | Sadece Türkiye'den izlenebilir. | Fransa - İspanya FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+https://c8c.site/https://tv-trt1.medya.trt.com.tr/master.m3u8/mono.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",14:00 | Bisiklet Tour de France - Etap 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
