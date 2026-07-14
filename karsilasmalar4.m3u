@@ -4,20 +4,15 @@
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
 # İki logo: https://patronsports2.cfd/img/logos/lask.png | https://patronsports2.cfd/img/logos/fenerbahce.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/malzenice.png" group-title="CANLI MAÇLAR - Hazirlik Maçi",Malzenice - Beşiktaş [12:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/malzenice.png | https://patronsports2.cfd/img/logos/besiktas.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/spartaktrnava.png" group-title="CANLI MAÇLAR - Hazirlik Maçi",Spartak Trnava - Beşiktaş [18:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/spartaktrnava.png | https://patronsports2.cfd/img/logos/besiktas.png
 #EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/fransa.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Fransa - İspanya [22:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/fransa.png | https://patronsports2.cfd/img/logos/ispanya.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/fransa.png" group-title="CANLI MAÇLAR - Sadece Türkiye'den izlenebilir | FHD",Fransa - İspanya [22:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/https://tv-trt1.medya.trt.com.tr/master.m3u8/mono.m3u8
 # İki logo: https://patronsports2.cfd/img/logos/fransa.png | https://patronsports2.cfd/img/logos/ispanya.png
 #EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/bisiklet.png" group-title="CANLI MAÇLAR - Bisiklet Tour de France",Bisiklet Tour de France - Etap 10 [14:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
