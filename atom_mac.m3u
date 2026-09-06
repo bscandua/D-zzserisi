@@ -11,13 +11,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://corestream.ardastream.live//beintv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="8ce28fa15ebea6d26788eb1243ed7de8" tvg-name="20:00 Kocaelispor - Samsunspor" tvg-logo="https://im.mackolik.com/img/logo/buyuk/18.gif" group-title="Süper Lig",20:00 Kocaelispor - Samsunspor
-# logo-home: https://im.mackolik.com/img/logo/buyuk/18.gif
-# logo-away: https://im.mackolik.com/img/logo/buyuk/8.gif
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://corestream.ardastream.live//bein2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="3ab7f7ae6ef4ba355776aea829243cdd" tvg-name="21:45 Juventus - Milan" tvg-logo="https://im.mackolik.com/img/logo/buyuk/157.gif" group-title="Serie A",21:45 Juventus - Milan
 # logo-home: https://im.mackolik.com/img/logo/buyuk/157.gif
 # logo-away: https://im.mackolik.com/img/logo/buyuk/156.gif
@@ -39,6 +32,27 @@ https://corestream.ardastream.live//s-sport/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://corestream.ardastream.live//bein4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="20237504" tvg-name="00:00 Internacional de Bogota - Aguilas Doradas" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/9dab98e9f506d1b8c2e7039241686e9a.png" group-title="Colombia. Categoria Prime...",00:00 Internacional de Bogota - Aguilas Doradas
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/9dab98e9f506d1b8c2e7039241686e9a.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/295169.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237504
+
+#EXTINF:-1 tvg-id="20237466" tvg-name="00:00 Delfin - Universidad Catolica Quito" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/b883bd20b36574f927c98ce814df768a.png" group-title="Ecuador. Serie A",00:00 Delfin - Universidad Catolica Quito
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/b883bd20b36574f927c98ce814df768a.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/5574.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237466
+
+#EXTINF:-1 tvg-id="20237468" tvg-name="00:00 Trujillanos - Caracas" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2792.png" group-title="Venezuela. Primera Divisi...",00:00 Trujillanos - Caracas
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2792.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ea87399706e3a52ca19bfcf4266feab0.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237468
+
 #EXTINF:-1 tvg-id="20234699" tvg-name="18:00 Nitra - Vaxjo Lakers" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/5b292a1433d1625647b9314ad9199d9a.png" group-title="Champions Hockey League",18:00 Nitra - Vaxjo Lakers
 # logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/5b292a1433d1625647b9314ad9199d9a.png
 # logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/fcbf621e81b28b5a9a067ada7c0439bb.png
@@ -53,173 +67,12 @@ https://corestream.ardastream.live//bein4/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 20235094
 
-#EXTINF:-1 tvg-id="20235511" tvg-name="19:45 Marta Kostyuk - Linda Noskova" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/abfa67065c4254e011a9daf91eeeaae2.png" group-title="US Open. Women",19:45 Marta Kostyuk - Linda Noskova
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/abfa67065c4254e011a9daf91eeeaae2.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/99e934bbb31f793dcac3cf1a63a125c8.png
+#EXTINF:-1 tvg-id="20236770" tvg-name="21:45 Alex Michelsen - Tomas Martin Etcheverry" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/37614850dbc6418af64bfa66dd7b27b7.png" group-title="US Open",21:45 Alex Michelsen - Tomas Martin Etcheverry
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/37614850dbc6418af64bfa66dd7b27b7.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/d7a2c8f26db3151e73d70e4dc9582440.png
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235511
-
-#EXTINF:-1 tvg-id="7fe2dff4a7be714fe31f3f4753d236ec" tvg-name="20:00 Antalyaspor - Sivasspor" tvg-logo="https://im.mackolik.com/img/logo/buyuk/455.gif" group-title="TFF 1. Lig",20:00 Antalyaspor - Sivasspor
-# logo-home: https://im.mackolik.com/img/logo/buyuk/455.gif
-# logo-away: https://im.mackolik.com/img/logo/buyuk/446.gif
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://corestream.ardastream.live//beinmax2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="20235637" tvg-name="20:00 Levadiakos - Panetolikos" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ab8a62866b9c93e445ae1e7955f9aeb0.PNG" group-title="Greece. SuperLeague",20:00 Levadiakos - Panetolikos
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ab8a62866b9c93e445ae1e7955f9aeb0.PNG
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3780014217fcaa1a8915240a127594ca.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235637
-
-#EXTINF:-1 tvg-id="20235660" tvg-name="20:00 Vitoria Guimaraes - Casa Pia A.C." tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/23169.png" group-title="Portugal. Primeira Liga",20:00 Vitoria Guimaraes - Casa Pia A.C.
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/23169.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/b258474167af382a206b7dcea58a6ca4.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235660
-
-#EXTINF:-1 tvg-id="20235648" tvg-name="20:00 UD Leiria - Portimonense" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/b2003eddf0ae2a78dc6ba4d8e06246bd.png" group-title="Portugal. Segunda Liga",20:00 UD Leiria - Portimonense
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/b2003eddf0ae2a78dc6ba4d8e06246bd.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/86db5ee86f14cf0ac937ffac509253ca.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235648
-
-#EXTINF:-1 tvg-id="20235816" tvg-name="20:15 S.K. Beveren - Oud-Heverlee Leuven" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/921a4ef2226f2ee3ecca5cd816f39117.png" group-title="Belgium. Jupiler League",20:15 S.K. Beveren - Oud-Heverlee Leuven
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/921a4ef2226f2ee3ecca5cd816f39117.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/8aecbb15ee8c5df1d3dcd5ac33fe1f91.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235816
-
-#EXTINF:-1 tvg-id="20235814" tvg-name="20:15 Kristiansund BK - Tromsø IL" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/13221.png" group-title="Norway. Eliteserien",20:15 Kristiansund BK - Tromsø IL
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/13221.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/4288.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235814
-
-#EXTINF:-1 tvg-id="20236127" tvg-name="20:30 Dart/Lumsden - Bucsa/Melichar-Martinez" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/7c5e98705a92f212205742d25b5c2359.png" group-title="US Open. Women. Doubles",20:30 Dart/Lumsden - Bucsa/Melichar-Martinez
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/7c5e98705a92f212205742d25b5c2359.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/4a7dcde1d018a1013526a3e53346ab0b.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236127
-
-#EXTINF:-1 tvg-id="20236115" tvg-name="20:30 Ostapenko/Hsieh - Bouzkova/Sorribes Tormo" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/56d7d7d154c4dc660a48012906569e88.png" group-title="US Open. Women. Doubles",20:30 Ostapenko/Hsieh - Bouzkova/Sorribes Tormo
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/56d7d7d154c4dc660a48012906569e88.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/77f58aa0b5ec3f1649d454edba71f4cd.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236115
-
-#EXTINF:-1 tvg-id="20235898" tvg-name="20:30 FC Oțelul Galați - Rapid Bucuresti" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/6ee9a13df49dce1dcda02c2b48865be5.png" group-title="Romania. Liga 1",20:30 FC Oțelul Galați - Rapid Bucuresti
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/6ee9a13df49dce1dcda02c2b48865be5.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1826.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235898
-
-#EXTINF:-1 tvg-id="20235895" tvg-name="20:30 U.S. Cremonese - Calcio Padova" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/28abadef918c096062217ae8a5237cf4.png" group-title="Italy. Serie B",20:30 U.S. Cremonese - Calcio Padova
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/28abadef918c096062217ae8a5237cf4.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/c560a95a2285ba641770f1d963bfb012.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235895
-
-#EXTINF:-1 tvg-id="20235899" tvg-name="20:30 Fortuna Koln - Fortuna Dusseldorf" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/16f4cf5db8cdeace2654a59030b35875.PNG" group-title="Germany. 3. Liga",20:30 Fortuna Koln - Fortuna Dusseldorf
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/16f4cf5db8cdeace2654a59030b35875.PNG
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/4fe22b887353b3d528159327ddfdc273.PNG
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20235899
-
-#EXTINF:-1 tvg-id="20236015" tvg-name="20:45 Baltika Kaliningrad - Lokomotiv Moskova" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/93e1a5c6959ea1d202f43719555095f0.png" group-title="Russia. Premier League",20:45 Baltika Kaliningrad - Lokomotiv Moskova
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/93e1a5c6959ea1d202f43719555095f0.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/16919.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236015
-
-#EXTINF:-1 tvg-id="20236046" tvg-name="20:45 C.A. Rosario Central - Newell's Old Boys" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/0a193e9e519da3c57ba35af02a7d2a57.png" group-title="Argentina. Primera Divisi...",20:45 C.A. Rosario Central - Newell's Old Boys
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/0a193e9e519da3c57ba35af02a7d2a57.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/0470b879030183bf48eb06d33b063bff.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236046
-
-#EXTINF:-1 tvg-id="20236045" tvg-name="20:45 O'Higgins F.C. - Union La Calera" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/16a9c22c837f187650aae2fdabfaf540.png" group-title="Chile. Primera Division",20:45 O'Higgins F.C. - Union La Calera
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/16a9c22c837f187650aae2fdabfaf540.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/02d71406353d9f7bd0f543e8a2503ada.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236045
-
-#EXTINF:-1 tvg-id="20236134" tvg-name="20:50 Al-Shabab Ahmadi - Kazma Sporting Club" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2346267.png" group-title="Kuwait. Premier League",20:50 Al-Shabab Ahmadi - Kazma Sporting Club
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2346267.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/c319c4aec894615b07122f1fdc5415df.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236134
-
-#EXTINF:-1 tvg-id="20236155" tvg-name="21:00 Győri ETO - Budapest Honvéd" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/57285f329e6f038734840bf2dd1a04c0.png" group-title="Hungary. NB I",21:00 Győri ETO - Budapest Honvéd
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/57285f329e6f038734840bf2dd1a04c0.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/35fd0c4225b2ed13fc5a320635064d1b.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236155
-
-#EXTINF:-1 tvg-id="20236138" tvg-name="21:00 Tommy Paul - Carlos Alcaraz Garfia" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/230797e9d73010978734cf9a69be53d8.png" group-title="US Open",21:00 Tommy Paul - Carlos Alcaraz Garfia
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/230797e9d73010978734cf9a69be53d8.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/83e864d5d1b3a372eec7c713bf39ccf0.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236138
-
-#EXTINF:-1 tvg-id="20236341" tvg-name="21:15 NK Celje - FC Koper" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/97bc6a4cac6833a8606f9c647a60a9e8.PNG" group-title="Slovenia. League 1",21:15 NK Celje - FC Koper
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/97bc6a4cac6833a8606f9c647a60a9e8.PNG
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/78cd63413e77da07e3d07d4004fb5723.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236341
-
-#EXTINF:-1 tvg-id="20236242" tvg-name="21:15 Lokomotiv Sofia - Ludogorets 1945" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/76e4ba219cbc3f677d92fa881fd3ccc0.png" group-title="Bulgaria. First League",21:15 Lokomotiv Sofia - Ludogorets 1945
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/76e4ba219cbc3f677d92fa881fd3ccc0.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/8b97fe523cc1decb2e4347fc633e4b35.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236242
-
-#EXTINF:-1 tvg-id="20236241" tvg-name="21:15 Jagiellonia Białystok - Śląsk Wrocław" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/91c7cb91780e12402151874e179a090a.png" group-title="Poland. Ekstraklasa",21:15 Jagiellonia Białystok - Śląsk Wrocław
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/91c7cb91780e12402151874e179a090a.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/4438.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236241
-
-#EXTINF:-1 tvg-id="20236451" tvg-name="21:30 Real Madrid (Bayanlar) - Eibar (Bayanlar)" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/08cbe85141a876c1160e9eb95c23a716.png" group-title="Spain. Primera Division. ...",21:30 Real Madrid (Bayanlar) - Eibar (Bayanlar)
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/08cbe85141a876c1160e9eb95c23a716.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/269921.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236451
-
-#EXTINF:-1 tvg-id="20236366" tvg-name="21:30 Deportivo Garcilaso - Atletico Grau" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2d58c35532ff60cfefb04660fdb81e04.png" group-title="Peru. Liga 1",21:30 Deportivo Garcilaso - Atletico Grau
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2d58c35532ff60cfefb04660fdb81e04.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1047821.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236366
-
-#EXTINF:-1 tvg-id="20236370" tvg-name="21:30 Panathinaikos - P.A.O.K." tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3006.png" group-title="Greece. SuperLeague",21:30 Panathinaikos - P.A.O.K.
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3006.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/7e0d06ee1b415bf1220713a02f921fb6.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236370
+20236770
 
 #EXTINF:-1 tvg-id="20236507" tvg-name="21:45 İtalya (Bayanlar) - ABD (Bayanlar)" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/12285.png" group-title="World Championships. Wome...",21:45 İtalya (Bayanlar) - ABD (Bayanlar)
 # logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/12285.png
@@ -228,68 +81,26 @@ https://corestream.ardastream.live//beinmax2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 20236507
 
-#EXTINF:-1 tvg-id="20236517" tvg-name="21:45 Pavlasek/Rikl - Glasspool/Cash" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1691eba383cf44f7a3958deea8f40ab5.png" group-title="US Open. Doubles",21:45 Pavlasek/Rikl - Glasspool/Cash
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1691eba383cf44f7a3958deea8f40ab5.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/a641ebad76c2c37ba859e7efb6dbe3d5.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236517
-
-#EXTINF:-1 tvg-id="20236636" tvg-name="21:45 Miedler/Polmans - Cash/Erler" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/31c99979ce4998c4e78b937842b49d2a.png" group-title="US Open. Doubles",21:45 Miedler/Polmans - Cash/Erler
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/31c99979ce4998c4e78b937842b49d2a.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/0f30ca51f3e5272dbc1242fc3d986055.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236636
-
-#EXTINF:-1 tvg-id="20236490" tvg-name="21:45 Juventus F.C. - A.C. Milan" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3f027d73e83a1b09ade31607258d4250.png" group-title="Italy. Serie A",21:45 Juventus F.C. - A.C. Milan
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3f027d73e83a1b09ade31607258d4250.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3530.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236490
-
-#EXTINF:-1 tvg-id="20236504" tvg-name="21:45 Olympique de Marseille - Paris" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ec8ae7c88d2909d6474152764da1e454.png" group-title="France. Ligue 1",21:45 Olympique de Marseille - Paris
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ec8ae7c88d2909d6474152764da1e454.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/5390.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236504
-
-#EXTINF:-1 tvg-id="20236601" tvg-name="22:00 RCD Espanyol - Sevilla FC" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/24a303cdc0a24b99485aebc26ff13f55.png" group-title="Spain. La Liga",22:00 RCD Espanyol - Sevilla FC
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/24a303cdc0a24b99485aebc26ff13f55.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3462.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236601
-
-#EXTINF:-1 tvg-id="20236618" tvg-name="22:00 UD Almería - Cádiz CF" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3486.png" group-title="Spain. Segunda Division",22:00 UD Almería - Cádiz CF
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3486.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/34225.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236618
-
-#EXTINF:-1 tvg-id="20236621" tvg-name="22:00 NK Slaven Belupo - NK Lokomotiva" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/7e997c2ca80fb3212335555df9a95b51.png" group-title="Croatia. HNL",22:00 NK Slaven Belupo - NK Lokomotiva
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/7e997c2ca80fb3212335555df9a95b51.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/fbcf869d250dbca64903c971bc12ae04.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236621
-
-#EXTINF:-1 tvg-id="20236617" tvg-name="22:00 Club Libertad - Club Rubio Ñu" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/4a5a8d6e5e87b7ce7adb4182cd7ddcb7.png" group-title="Paraguay. Primera Divisio...",22:00 Club Libertad - Club Rubio Ñu
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/4a5a8d6e5e87b7ce7adb4182cd7ddcb7.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1de3bb5d2e1e2872bc2e3373dffb5a16.png
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236617
-
 #EXTINF:-1 tvg-id="20236611" tvg-name="22:00 Sport Club Internacional - Santos" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/966400e6bf5268cde4e88e40bc71d433.png" group-title="Brazil. Campeonato Brasil...",22:00 Sport Club Internacional - Santos
 # logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/966400e6bf5268cde4e88e40bc71d433.png
 # logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ce4dca186b793819a5cac868de9dbcb8.png
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 20236611
+
+#EXTINF:-1 tvg-id="20236691" tvg-name="22:00 A.C. Perugia Calcio - A.S.D. Pineto Calcio" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/11951.png" group-title="Italy. Serie C. Group B",22:00 A.C. Perugia Calcio - A.S.D. Pineto Calcio
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/11951.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/387555.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236691
+
+#EXTINF:-1 tvg-id="20236694" tvg-name="22:00 F.C. Casertana - S.S. Scafatese Calcio 1922" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/28177.png" group-title="Italy. Serie C. Group C",22:00 F.C. Casertana - S.S. Scafatese Calcio 1922
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/28177.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/b863b5e516f0934994b1a79f8b7f1e67.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236694
 
 #EXTINF:-1 tvg-id="20236612" tvg-name="22:00 Clube do Remo - Flamengo" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/f114afb9914e25256befccc9ca9e74c4.png" group-title="Brazil. Campeonato Brasil...",22:00 Clube do Remo - Flamengo
 # logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/f114afb9914e25256befccc9ca9e74c4.png
@@ -298,19 +109,152 @@ https://corestream.ardastream.live//beinmax2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 20236612
 
-#EXTINF:-1 tvg-id="20236608" tvg-name="22:00 Independiente Petrolero - Club Bolívar" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1969529.png" group-title="Bolivia. Primera Division",22:00 Independiente Petrolero - Club Bolívar
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1969529.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2570.png
+#EXTINF:-1 tvg-id="20236699" tvg-name="22:00 FK Vojvodina - FK Zemun" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3380.png" group-title="Serbia. SuperLiga",22:00 FK Vojvodina - FK Zemun
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3380.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/944600a94e582e16fcad560680fc1d5b.png
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236608
+20236699
 
-#EXTINF:-1 tvg-id="20236610" tvg-name="22:00 Cruzeiro Esporte Clube - Clube Atlético Paranaense" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/937b08b940c78ed31deb48d61d122d3a.png" group-title="Brazil. Campeonato Brasil...",22:00 Cruzeiro Esporte Clube - Clube Atlético Paranaense
-# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/937b08b940c78ed31deb48d61d122d3a.png
-# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/22de631a65b80b26a41cd661bf226bde.png
+#EXTINF:-1 tvg-id="20236900" tvg-name="22:25 Daniil Medvedev - Frances Tiafoe" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/fba7f562cab74c8d052ccd23460c0ed3.png" group-title="US Open",22:25 Daniil Medvedev - Frances Tiafoe
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/fba7f562cab74c8d052ccd23460c0ed3.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/c7e1a333732e982dccdb06a3daca4b0b.png
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-20236610
+20236900
+
+#EXTINF:-1 tvg-id="20236854" tvg-name="22:30 Gil Vicente F.C. - Académico de Viseu FC" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ea02a26010c00c39c0b8b13c95c35fe1.png" group-title="Portugal. Primeira Liga",22:30 Gil Vicente F.C. - Académico de Viseu FC
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ea02a26010c00c39c0b8b13c95c35fe1.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/26057.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236854
+
+#EXTINF:-1 tvg-id="20236897" tvg-name="22:30 Club Nacional Montevideo - Juventud de Las Piedras" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2568.png" group-title="Uruguay. Primera Division",22:30 Club Nacional Montevideo - Juventud de Las Piedras
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2568.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1c625d10721fbf0ea48d2e686ada9e77.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236897
+
+#EXTINF:-1 tvg-id="20236988" tvg-name="22:45 Central Córdoba de Santiago - Independiente" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/414957.png" group-title="Argentina. Primera Divisi...",22:45 Central Córdoba de Santiago - Independiente
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/414957.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/58cd9921e7a1e7b0cafef7c119f74675.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236988
+
+#EXTINF:-1 tvg-id="20237077" tvg-name="22:45 Korpatsch/Fossa Huergo - Joint/Chan" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/f45f278647ad103661f402cb7f7654a1.png" group-title="US Open. Women. Doubles",22:45 Korpatsch/Fossa Huergo - Joint/Chan
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/f45f278647ad103661f402cb7f7654a1.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/ce1ea76e4ec24a5772d1c68e36e8650f.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237077
+
+#EXTINF:-1 tvg-id="20237119" tvg-name="23:00 Atlantico - Salcedo FC" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/0d0bd852353e01a2fb5d2d73da9827fd.png" group-title="Dominican Republic Champi...",23:00 Atlantico - Salcedo FC
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/0d0bd852353e01a2fb5d2d73da9827fd.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/696b16e93019b0e0cbd9fa18ce2db832.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237119
+
+#EXTINF:-1 tvg-id="20237361" tvg-name="23:00 Santa Clara Broncos (Bayanlar) - Stanford (Bayanlar)" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/904433.png" group-title="National Collegiate Athle...",23:00 Santa Clara Broncos (Bayanlar) - Stanford (Bayanlar)
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/904433.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1107655.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237361
+
+#EXTINF:-1 tvg-id="20237122" tvg-name="23:00 Jarabacoa - Moca" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/316c44a0b36d6f690fa83e4d76103607.png" group-title="Dominican Republic Champi...",23:00 Jarabacoa - Moca
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/316c44a0b36d6f690fa83e4d76103607.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/fa28c1a0fb5e56f9a36fac7077adfdf9.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237122
+
+#EXTINF:-1 tvg-id="20236985" tvg-name="23:00 Central Norte Salta - Club Almirante Brown" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/a780fc328340cba0688e860583f8450c.png" group-title="Argentina. Primera B Naci...",23:00 Central Norte Salta - Club Almirante Brown
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/a780fc328340cba0688e860583f8450c.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/a6b702412b797e0e5250c974a786e81b.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236985
+
+#EXTINF:-1 tvg-id="20237124" tvg-name="23:00 Agremiação Sportiva Arapiraquense - Uberlandia" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/8b5f83ef25c3bad5e74d10d45e41ef33.png" group-title="Brazil. Campeonato Brasil...",23:00 Agremiação Sportiva Arapiraquense - Uberlandia
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/8b5f83ef25c3bad5e74d10d45e41ef33.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/cba9c0706f098e536d0d665c70b5155c.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237124
+
+#EXTINF:-1 tvg-id="20236986" tvg-name="23:00 Club Atletico Guemes - Gimnasia y Tiro" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/296517.png" group-title="Argentina. Primera B Naci...",23:00 Club Atletico Guemes - Gimnasia y Tiro
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/296517.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/159023.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236986
+
+#EXTINF:-1 tvg-id="20237157" tvg-name="23:00 Rentistas - Centro Atlético Fénix" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/03313acf86b3918d2808c8acf7f600f8.png" group-title="Uruguay. Segunda Division",23:00 Rentistas - Centro Atlético Fénix
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/03313acf86b3918d2808c8acf7f600f8.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/5212.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237157
+
+#EXTINF:-1 tvg-id="20237096" tvg-name="23:00 Portland Thorns (Bayanlar) - Washington Spirit (Bayanlar)" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/879b9905ba93508ca2f21920273f786a.png" group-title="USA. NWSL. Women",23:00 Portland Thorns (Bayanlar) - Washington Spirit (Bayanlar)
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/879b9905ba93508ca2f21920273f786a.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/4f9654d8d03d39fa8e37e0fd07e2c7c5.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237096
+
+#EXTINF:-1 tvg-id="20237095" tvg-name="23:00 Chicago Stars (Bayanlar) - Kuzey Carolina Courage(Bayanlar)" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1cd603dcd5b6bc6ec7fb5b9e5d1c9699.png" group-title="USA. NWSL. Women",23:00 Chicago Stars (Bayanlar) - Kuzey Carolina Courage(Bayanlar)
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/1cd603dcd5b6bc6ec7fb5b9e5d1c9699.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/270f7193b6396e237fb767c03a94309a.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237095
+
+#EXTINF:-1 tvg-id="20236984" tvg-name="23:00 CD Huachipato - Colo-Colo" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/5592.png" group-title="Chile. Primera Division",23:00 CD Huachipato - Colo-Colo
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/5592.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/01af75c004c05818c821d12f6764ed2f.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236984
+
+#EXTINF:-1 tvg-id="20236987" tvg-name="23:00 Juan Pablo II - Alianza Lima" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/10153a28060d4d3b1a9a2f86614539ae.png" group-title="Peru. Liga 1",23:00 Juan Pablo II - Alianza Lima
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/10153a28060d4d3b1a9a2f86614539ae.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/11461.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236987
+
+#EXTINF:-1 tvg-id="20237097" tvg-name="23:00 Monagas SC - Metropolitanos FC" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/f6a1f737cfe80aedc6d492be8de85295.png" group-title="Venezuela. Primera Divisi...",23:00 Monagas SC - Metropolitanos FC
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/f6a1f737cfe80aedc6d492be8de85295.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/107445.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237097
+
+#EXTINF:-1 tvg-id="20236989" tvg-name="23:00 Club Atlético Lanús - Defensa y Justicia" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/c9ba4da67ca1b51a354fba868a63ece3.png" group-title="Argentina. Primera Divisi...",23:00 Club Atlético Lanús - Defensa y Justicia
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/c9ba4da67ca1b51a354fba868a63ece3.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/2386.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20236989
+
+#EXTINF:-1 tvg-id="20237275" tvg-name="23:30 Boca Juniors De Cali - Envigado Fútbol Club" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/9d6053d06103f34ca8c7e0b2e35f5024.png" group-title="Colombia. Categoria Prime...",23:30 Boca Juniors De Cali - Envigado Fútbol Club
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/9d6053d06103f34ca8c7e0b2e35f5024.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/3feec248b0e9c9bd524f2342977e5993.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237275
+
+#EXTINF:-1 tvg-id="20237331" tvg-name="23:45 Kichenok/Kichenok - Wu/Kato" tvg-logo="https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/7476014c379244494656e5acb8de8619.png" group-title="US Open. Women. Doubles",23:45 Kichenok/Kichenok - Wu/Kato
+# logo-home: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/7476014c379244494656e5acb8de8619.png
+# logo-away: https://1xlite-5674.pro/resized/size16/sfiles/logo_teams/85e5d5ad6b21746b7c0433bc30402cc1.png
+#EXTVLCOPT:http-referrer=https://www.atomsportv514.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+20237331
 
 # ══════════════════════════════════
 #  TV KANALLARI
